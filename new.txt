@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HEllo vijay
+=======
+HEllo vijay goodevening
+>>>>>>> secondbranch
 how are you
